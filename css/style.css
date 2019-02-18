@@ -1,0 +1,125 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.btn-primary {
+  background: #0092bf;
+  color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #33a6cc;
+}
+
+.btn-primary.active, .btn-primary:active {
+  background: #33a6cc;
+}
+
+.alert {
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.keepHeight img {
+  width: auto;
+  height: 500px;
+  max-height: 500px;
+}
+
+ul.dashed {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.dashed > li {
+    margin-left: 15px;
+}
+
+/* Prevent nested li's from getting messed up */
+ul.dashed > li::before {
+    content: "-";
+    margin-left: -15px;
+}
+
+.navbar {
+  background-color: #006d91;
+}
+
+.supportFooter {
+	margin-bottom: 50px;
+}
+
+footer {
+  background-color: #006d91;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 50px;
+  font-size: 14px;
+}
+
+@media (max-width: 640px) {
+	footer{
+	  background-color: #006d91;
+	  width: 100%;
+	  position: fixed;
+	  bottom: 0;
+	  height: 50px;
+	  font-size: 10px;
+	}
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: #fff;
+}
+
+#map {
+  height: 150px;
+  width: 250px;
+}
+
+.addSpace {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.field-group {
+	margin:15px 0px;
+}
+.input-field {
+	padding: 8px;
+	border: #A3C3E7 1px solid;
+	border-radius: 4px;
+}
+.form-submit-button {
+	background: #65C370;
+	border: 0;
+	padding: 8px 20px;
+	border-radius: 4px;
+	color: #FFF;
+	text-transform: uppercase;
+}
+.form-reset-button {
+	background: #ff3535;
+	border: 0;
+	padding: 8px 20px;
+	border-radius: 4px;
+	color: #FFF;
+	text-transform: uppercase;
+}

@@ -1,0 +1,18 @@
+[21-Mar-2018 00:03:01 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[21-Mar-2018 00:03:01 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27
+[20-Mar-2018 20:03:01 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 33
+[21-Mar-2018 00:27:28 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[21-Mar-2018 00:27:28 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27
+[21-Mar-2018 00:31:34 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[21-Mar-2018 00:31:34 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27
+[21-Mar-2018 00:33:16 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[21-Mar-2018 00:33:16 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27
+[24-Mar-2018 14:52:19 UTC] PHP Warning:  include(../../services/server_connection.inc): failed to open stream: No such file or directory in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[24-Mar-2018 14:52:19 UTC] PHP Warning:  include(): Failed opening '../../services/server_connection.inc' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[24-Mar-2018 14:52:34 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/updateEmployee.php on line 24
+[24-Mar-2018 14:52:37 UTC] PHP Warning:  include(../../services/server_connection.inc): failed to open stream: No such file or directory in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[24-Mar-2018 14:52:37 UTC] PHP Warning:  include(): Failed opening '../../services/server_connection.inc' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[20-May-2018 19:07:57 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[20-May-2018 19:07:57 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27
+[20-May-2018 19:08:37 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 5
+[20-May-2018 19:08:37 UTC] PHP Notice:  Undefined index: allergers in /home/bv3fatqp56fz/public_html/dashboard/utils/employee/addEmployee.php on line 27

@@ -1,0 +1,1 @@
+[] select * from timesheet where CURDATE() <= WeekEnding AND CURDATE() >= MondayDate AND EmployeeID='1';. Result 

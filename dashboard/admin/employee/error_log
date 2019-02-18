@@ -1,0 +1,9 @@
+[24-Mar-2018 14:48:16 UTC] PHP Warning:  include(../../services/server_connection.inc): failed to open stream: No such file or directory in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[24-Mar-2018 14:48:16 UTC] PHP Warning:  include(): Failed opening '../../services/server_connection.inc' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[04-Jul-2018 17:11:50 UTC] PHP Warning:  include(../../services/server_connection.inc): failed to open stream: No such file or directory in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[04-Jul-2018 17:11:50 UTC] PHP Warning:  include(): Failed opening '../../services/server_connection.inc' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[04-Jul-2018 17:12:58 UTC] PHP Notice:  Undefined index: saturdayclient in /home/bv3fatqp56fz/public_html/dashboard/admin/employee/timesheet_handler.php on line 82
+[04-Jul-2018 17:12:58 UTC] PHP Notice:  Undefined index: sundaysundayclientsn in /home/bv3fatqp56fz/public_html/dashboard/admin/employee/timesheet_handler.php on line 92
+[04-Jul-2018 13:12:58 America/New_York] PHP Warning:  Division by zero in /home/bv3fatqp56fz/public_html/dashboard/admin/employee/timesheet_handler.php on line 199
+[04-Jul-2018 17:13:36 UTC] PHP Warning:  include(../../services/server_connection.inc): failed to open stream: No such file or directory in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2
+[04-Jul-2018 17:13:36 UTC] PHP Warning:  include(): Failed opening '../../services/server_connection.inc' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/bv3fatqp56fz/public_html/dashboard/utils/table_calls.php on line 2

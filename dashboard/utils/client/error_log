@@ -1,0 +1,8 @@
+[21-Mar-2018 00:03:27 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 5
+[21-Mar-2018 00:03:27 UTC] PHP Notice:  Undefined variable: emergencycontact2 in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 27
+[21-Mar-2018 00:05:45 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 5
+[21-Mar-2018 00:05:45 UTC] PHP Notice:  Undefined variable: emergencycontact2 in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 27
+[21-Mar-2018 00:26:38 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 5
+[21-Mar-2018 00:26:38 UTC] PHP Notice:  Undefined variable: emergencycontact2 in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 27
+[04-Jul-2018 17:09:52 UTC] PHP Notice:  Undefined index: redirect in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 5
+[04-Jul-2018 17:09:52 UTC] PHP Notice:  Undefined variable: emergencycontact2 in /home/bv3fatqp56fz/public_html/dashboard/utils/client/addClient.php on line 27
